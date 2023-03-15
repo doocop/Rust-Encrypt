@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=D:\Pentest\bypassav\rust\bypassav\encode\target\release\build\typenum-6e09ada24a87b654\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=D:\Pentest\bypassav\rust\bypassav\encode\target\release\build\typenum-6e09ada24a87b654\out\op.rs
